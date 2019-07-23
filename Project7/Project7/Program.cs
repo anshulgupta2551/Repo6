@@ -10,7 +10,7 @@ namespace Project7
     {
         static void Main(string[] args)
         {
-            //hjg//
+            //hjg//ryryee
             //tytyrty
         }
     }
